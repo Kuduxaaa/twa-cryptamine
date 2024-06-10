@@ -11,19 +11,25 @@
   },
   "dependencies": {
     "@orbs-network/ton-access": "^2.2.2",
-    "@tanstack/react-query": "^4.24.4",
+    "@tanstack/react-query": "^4.36.1",
+    "@ton/ton": "^13.11.2",
     "@tonconnect/ui-react": "^2.0.0-beta.2",
     "@twa-dev/sdk": "^6.4.2",
+    "axios": "^1.7.2",
     "buffer": "^6.0.3",
     "is-mobile": "^3.1.1",
+    "jose": "^5.4.0",
+    "msw": "^2.3.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "styled-components": "^5.3.6",
-    "ton": "13.3.0",
+    "ton": "^6.13.1",
     "ton-core": "^0.46.0",
     "ton-crypto": "^3.2.0",
+    "tonweb": "^0.0.66",
     "use-local-storage": "^2.3.6",
-    "vite-plugin-node-polyfills": "^0.7.0"
+    "vite-plugin-node-polyfills": "^0.7.0",
+    "zod": "^3.23.8"
   },
   "devDependencies": {
     "@types/node": "^18.11.18",
