@@ -7,7 +7,7 @@ const Home = () => {
             <h1>Home</h1>
 
             <div className="clicker">
-                <img draggable="false" src="logo-circle.png" className='clicker-image' alt="Cryptamine" />
+                <img draggable="false" src="https://kuduxaaa.github.io/twa-cryptamine/logo-circle.png" className='clicker-image' alt="Cryptamine" />
             </div>
         </div>
     );
