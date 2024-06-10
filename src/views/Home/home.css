@@ -13,4 +13,5 @@
   box-shadow: #4040b842 0px 0px 10px;
   background-color: #1f1e2c;
   margin: calc(50% - 87px) auto;
+  max-width: 92%;
 }
