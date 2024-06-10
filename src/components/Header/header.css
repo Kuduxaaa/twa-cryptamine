@@ -5,9 +5,8 @@ header {
   padding: 18px 25px;
 }
 
-header > span {
-  font-size: 30px;
-  line-height: 34px;
-  color: rgba(102, 170, 238, 0.91);
-  font-weight: bold;
+#ton-connect-button,
+#ton-connect-button button,
+#ton-connect-button div {
+  width: 100% !important;
 }
